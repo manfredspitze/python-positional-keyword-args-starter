@@ -26,7 +26,7 @@ Hello, Alyssa. You are 30 years old.
 
 ### Keyword Arguments
 
-- With positional arguments, it is sometimes hard to tell which argument to use with which parameter
+- With positional arguments, it is sometimes hard to tell which argument belongs to which parameter
 - Keyword arguments can make your code easier to read and understand:
 ```python
 # Calling a function to calculate the area of a rectangle
