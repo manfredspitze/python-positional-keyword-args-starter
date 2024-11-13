@@ -10,7 +10,7 @@
   def greet_user(first_name, age):
   print(f"Hello, {first_name}. You are {age} years old.")
 
-greet_user("Alyssa", 30)
+  greet_user("Alyssa", 30)
 ```
 
 ```python
