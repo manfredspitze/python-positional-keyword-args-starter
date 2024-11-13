@@ -13,7 +13,7 @@
   greet_user("Alyssa", 30)
 ```
 
-```python
+```
 # OUTPUT
 Hello, Alyssa. You are 30 years old.
 ```
