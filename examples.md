@@ -29,7 +29,9 @@ Hello, Alyssa. You are 30 years old.
 - With positional arguments, it is sometimes hard to tell which argument to use with which parameter
 - Keyword arguments can make your code easier to read and understand:
 ```python
+# Calling a function to calculate the area of a rectangle
 calculate_area_rectangle (width = 10, height = 5) # This code is easier to read
 
+# Calling a function to calculate the area of a rectangle
 calculate_area_rectange (10, 5) # Harder to see which number is the width and which is the height of the rectangle
 ```
