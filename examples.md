@@ -4,6 +4,7 @@
 
 - Positional is a fancy word for **position**
 - Positional arguments are assigned to parameters based on their order in the function call
+- In the example below, 'Alyssa' is assigned to the parameter `first_name` and 30 is assigned to the `age` parameter
 
 ```python
 # Example
