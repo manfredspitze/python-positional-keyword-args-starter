@@ -35,3 +35,11 @@ calculate_area_rectangle (width = 10, height = 5) # This code is easier to read
 # Calling a function to calculate the area of a rectangle
 calculate_area_rectange (10, 5) # Harder to see which number is the width and which is the height of the rectangle
 ```
+- With **keyword arguments**, the exact order of your arguments (when you call a function) is less important than when you use positional arguments
+```python
+# VERSION 1: Calling a function to calculate the area of a rectangle
+calculate_area_rectangle (width = 10, height = 5) # Note the order of the two arguments in this version
+
+# Calling a function to calculate the area of a rectangle
+calculate_area_rectangle (height = 5, width = 10) # Changing the order of keyword arguments does not affect the result of the calculation
+```
