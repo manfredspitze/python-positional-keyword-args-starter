@@ -31,9 +31,11 @@ Hello, Alyssa. You are 30 years old.
 - Keyword arguments can make your code easier to read and understand:
 ```python
 # Calling a function to calculate the area of a rectangle
+# Using KEYWORD arguments in this first example
 calculate_area_rectangle (width = 10, height = 5) # Clearly, the argument 10 is the width and the argument 5 is the height of the rectangle
 
 # Calling a function to calculate the area of a rectangle
+# Using POSITIONAL arguments in this example
 calculate_area_rectangle (10, 5) # Harder to see which argument is the width and which is the height of the rectangle
 ```
 - With **keyword arguments**, the exact order of your arguments (when you call a function) is less important than when you use positional arguments
