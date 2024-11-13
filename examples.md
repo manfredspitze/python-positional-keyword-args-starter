@@ -1,4 +1,4 @@
-## Python: Positional & Keyword Arguments
+## Python Functions: Positional & Keyword Arguments
 
 ### Positional Arguments
 
