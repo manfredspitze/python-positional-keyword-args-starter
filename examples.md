@@ -31,7 +31,7 @@ Hello, Alyssa. You are 30 years old.
 - Keyword arguments can make your code easier to read and understand:
 ```python
 # Calling a function to calculate the area of a rectangle
-calculate_area_rectangle (width = 10, height = 5) # Clearly, the argument 10 is the width and the argument 5 represents the height of the rectangle
+calculate_area_rectangle (width = 10, height = 5) # Clearly, the argument 10 is the width and the argument 5 is the height of the rectangle
 
 # Calling a function to calculate the area of a rectangle
 calculate_area_rectange (10, 5) # Harder to see which argument is the width and which is the height of the rectangle
