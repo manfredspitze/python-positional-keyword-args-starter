@@ -22,3 +22,14 @@ Hello, Alyssa. You are 30 years old.
 - Remember that the number of arguments must match the number of parameters in your function
 - The order of your positional arguments matters!
   - In the example above, the arguments `'Alyssa'` and `30` match the order of the `first_name` and `age` parameters used with the `greet_user()` function
+ 
+
+### Keyword Arguments
+
+- With positional arguments, it is sometimes hard to tell which argument to use with which parameter
+- Keyword arguments can make your code easier to read and understand:
+```python
+calculate_area_rectangle (width = 10, height = 5) # This code is easier to read
+
+calculate_area_rectange (10, 5) # Harder to see which number is the width and which is the height of the rectangle
+```
