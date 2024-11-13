@@ -21,4 +21,4 @@ Hello, Alyssa. You are 30 years old.
 ### Tips for Working with Positional Arguments
 - Remember that the number of arguments must match the number of parameters in your function
 - The order of your positional arguments matters!
-  - In the example above, 'Alyssa' and 30 match the order of the `first_name` and `age` parameters on line 11
+  - In the example above, 'Alyssa' and 30 match the order of the `first_name` and `age` parameters used with the `greet_user()` function
