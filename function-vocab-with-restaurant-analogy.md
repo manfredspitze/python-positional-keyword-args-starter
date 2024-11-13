@@ -21,7 +21,7 @@ The **return statement** is like the **waiter bringing your dish** back to you. 
 
 So, in programming:
 - A **function** is like the restaurant kitchen.
-- **Arguments** are the ingredients you give to the function.
-- **Parameters** are the ingredients the function expects to receive.
-- The **return statement** is the dish the function gives back after it’s done working.
+- **Arguments** are like the ingredients you give to the kitchen (the function).
+- **Parameters** are the ingredients the kitche (the function) expects to receive.
+- The **return statement** is the dish the kitchen (the function gives) back after it’s done what you asked it to do.
 
